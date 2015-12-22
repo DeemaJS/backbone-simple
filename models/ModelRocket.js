@@ -1,5 +1,3 @@
-
-//создаем прототип нашего объекта или модели
 var RocketModel = Backbone.Model.extend({
     defaults: {
         name: 'name',
