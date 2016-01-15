@@ -1,4 +1,3 @@
-
 var RocketView = Backbone.View.extend({
 
     tagName: 'tr',
